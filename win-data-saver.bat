@@ -1,5 +1,5 @@
 @echo off
-title Zero-Waste Hotspot Mode (v2 - Maximum Block)
+title WIN DATA SAVER(v1 - Maximum Block)
 color 0B
 
 net session >nul 2>&1
@@ -12,11 +12,11 @@ if %errorlevel% neq 0 (
 :MENU
 cls
 echo =====================================================
-echo       ZERO-WASTE HOTSPOT MODE v2 (MAXIMUM BLOCK)
+echo       WIN DATA SAVER MODE v1 (MAXIMUM BLOCK)
 echo =====================================================
 echo.
-echo  [1] Enable Zero-Waste Mode
-echo  [2] Disable Zero-Waste Mode (Restore Normal)
+echo  [1] Enable WINDATA-SAVER Mode
+echo  [2] Disable WINDATA-SAVER (Restore Normal)
 echo  [3] Show current data usage (Task Manager)
 echo  [4] Exit
 echo.
@@ -30,7 +30,7 @@ goto MENU
 
 :ENABLE
 cls
-echo Applying Maximum Zero-Waste Settings...
+echo Applying Maximum WIN DATA SAVER Settings...
 echo.
 
 :: -------- NETWORK: Mark as Metered --------
@@ -173,7 +173,7 @@ ipconfig /flushdns >nul 2>&1
 
 echo.
 echo =====================================================
-echo  SUCCESS: Maximum Zero-Waste Mode is ACTIVE!
+echo  SUCCESS: Maximum WIN-DATA SAVER Mode is ACTIVE!
 echo.
 echo  What was blocked:
 echo   - Windows Update + BITS + UsoSvc
