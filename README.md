@@ -71,7 +71,7 @@ This script blocks **all of them** with a single menu option — and restores ev
 
 ### Steps
 
-1. Download `ZeroWaste_Advanced_v2.bat`
+1. Download `win-data-saver.bat`
 2. Right-click the file → **Run as administrator**
 3. Choose an option from the menu:
 
@@ -113,8 +113,9 @@ Then restart your PC.
 ## 📁 Files
 
 ```
-ZeroWaste_Advanced_v2.bat    ← Main script (run this)
-README.md                    ← This file
+win-data-saver.bat           ← Main script (run this)
+README.md                    ← README File
+LICENCE                      ← Licence File
 ```
 
 ---
@@ -123,7 +124,6 @@ README.md                    ← This file
 
 - Windows 11 Home (22H2, 23H2, 24H2)
 - Windows 11 Pro
-- Windows 10 (21H2+)
 
 ---
 
