@@ -1,4 +1,4 @@
-# 🛡️ Zero-Waste Hotspot Mode for Windows 11
+# 🛡️ WIN DATA SAVER Mode for Windows 11
 
 A powerful batch script that blocks Windows 11 background data consumption — built for users on **mobile hotspot or limited data plans**. One click to lock down, one click to restore.
 
@@ -76,9 +76,9 @@ This script blocks **all of them** with a single menu option — and restores ev
 3. Choose an option from the menu:
 
 ```
-[1] Enable Zero-Waste Mode     ← Run this when on mobile hotspot
-[2] Disable Zero-Waste Mode    ← Run this when back on unlimited Wi-Fi
-[3] Show current data usage    ← Opens Task Manager
+[1] Enable WIN-DATA SAVER Mode     ← Run this when on mobile hotspot
+[2] Disable WIN-DATA SAVER Mode    ← Run this when back on unlimited Wi-Fi
+[3] Show current data usage        ← Opens Task Manager
 [4] Exit
 ```
 
@@ -107,6 +107,7 @@ Run the script and choose **option 2**. It restores:
 - Scheduled tasks re-enabled
 
 Then restart your PC.
+
 
 ---
 
